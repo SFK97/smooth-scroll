@@ -67,7 +67,7 @@ const Footer = () => {
               Moolah
             </SocialLogo>
             <WebisteRights>
-              Moolah © {new Date().getFullYear()}All rights reserved.
+              Moolah © {new Date().getFullYear()} All rights reserved.
             </WebisteRights>
             <SocialIcons>
               <SocialIconsLink
